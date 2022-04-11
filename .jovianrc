@@ -2,6 +2,9 @@
   "notebooks": {
     "my-notebook.ipynb": {
       "slug": "ba34c578262a4ce79afbeb04203a2d4d"
+    },
+    "my-notebook-1.ipynb": {
+      "slug": "5bfcb659a2c540dc84f5b16b1111c921"
     }
   }
 }
